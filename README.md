@@ -9,3 +9,5 @@ ENV_BOT_SECRET 变量， uuid
 ENV_ADMIN_UID 变量， 用户 id
 
 点击黄色按钮一键部署 
+
+访问xxxxx.dev/registerWebhook 出现ok即可
